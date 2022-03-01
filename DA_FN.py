@@ -10,5 +10,5 @@ headers = {'User-Agent': 'Mobile'}
 r3 = requests.get(url, headers = headers)
 print(r3.text)
 
-print('...................')
+
 
